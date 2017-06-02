@@ -3,40 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>localhost:1313/bookshelf/blog/hello/</loc>
+    <loc>https://westleydang.github.io/bookshelf/blog/hello/</loc>
     <lastmod>2017-06-02T13:43:06-07:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost:1313/bookshelf/post/hello/</loc>
+    <loc>https://westleydang.github.io/bookshelf/post/hello/</loc>
     <lastmod>2017-06-02T12:13:44-07:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost:1313/bookshelf/blog/</loc>
+    <loc>https://westleydang.github.io/bookshelf/blog/</loc>
     <lastmod>2017-06-02T13:43:06-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>localhost:1313/bookshelf/categories/</loc>
+    <loc>https://westleydang.github.io/bookshelf/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>localhost:1313/bookshelf/</loc>
+    <loc>https://westleydang.github.io/bookshelf/</loc>
     <lastmod>2017-06-02T13:43:06-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>localhost:1313/bookshelf/post/</loc>
+    <loc>https://westleydang.github.io/bookshelf/post/</loc>
     <lastmod>2017-06-02T12:13:44-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>localhost:1313/bookshelf/tags/</loc>
+    <loc>https://westleydang.github.io/bookshelf/tags/</loc>
     <priority>0</priority>
   </url>
   

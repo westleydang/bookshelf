@@ -2,21 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://westleydang.github.io/bookshelf/</link>
+    <link>localhost:1313/bookshelf/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Jun 2017 12:13:44 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jun 2017 13:43:06 -0700</lastBuildDate>
     
-	<atom:link href="https://westleydang.github.io/bookshelf/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="localhost:1313/bookshelf/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>hello</title>
-      <link>https://westleydang.github.io/bookshelf/post/hello/</link>
+      <link>localhost:1313/bookshelf/blog/hello/</link>
+      <pubDate>Fri, 02 Jun 2017 13:43:06 -0700</pubDate>
+      
+      <guid>localhost:1313/bookshelf/blog/hello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hello</title>
+      <link>localhost:1313/bookshelf/post/hello/</link>
       <pubDate>Fri, 02 Jun 2017 12:13:44 -0700</pubDate>
       
-      <guid>https://westleydang.github.io/bookshelf/post/hello/</guid>
+      <guid>localhost:1313/bookshelf/post/hello/</guid>
       <description>I read Good to Great in January 2016. An awesome read sharing detailed analysis on how good companies became great.</description>
     </item>
     

@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://westleydang.github.io/bookshelf/</loc>
-    <priority>0</priority>
+    <loc>https://westleydang.github.io/bookshelf/post/what-do-you-want-to-be/</loc>
+    <lastmod>2017-06-03T15:00:13-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westleydang.github.io/bookshelf/post/solar-radiation/</loc>
+    <lastmod>2017-06-02T13:43:06-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westleydang.github.io/bookshelf/post/hello/</loc>
+    <lastmod>2017-06-02T12:13:44-07:00</lastmod>
   </url>
   
   <url>
@@ -13,7 +23,31 @@
   </url>
   
   <url>
+    <loc>https://westleydang.github.io/bookshelf/post/</loc>
+    <lastmod>2017-06-03T15:00:13-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://westleydang.github.io/bookshelf/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://westleydang.github.io/bookshelf/</loc>
+    <lastmod>2017-06-03T15:00:13-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://westleydang.github.io/bookshelf/tags/x/</loc>
+    <lastmod>2017-06-03T15:00:13-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://westleydang.github.io/bookshelf/categories/y/</loc>
+    <lastmod>2017-06-03T15:00:13-07:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,24 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Westley Dang</title>
     <link>https://westleydang.github.io/bookshelf/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on Westley Dang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; &lt;a href=&#34;https://github.com/beli3ver&#34;&gt;Malte Kiefer&lt;/a&gt; 2016</copyright>
-    <lastBuildDate>Fri, 02 Jun 2017 12:13:44 -0700</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Sat, 03 Jun 2017 15:00:13 -0700</lastBuildDate>
     
 	<atom:link href="https://westleydang.github.io/bookshelf/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>hello</title>
+      <title>what do you want to be</title>
+      <link>https://westleydang.github.io/bookshelf/post/what-do-you-want-to-be/</link>
+      <pubDate>Sat, 03 Jun 2017 15:00:13 -0700</pubDate>
+      
+      <guid>https://westleydang.github.io/bookshelf/post/what-do-you-want-to-be/</guid>
+      <description>“What do you want to be when you grow up?” and other ways of asking it.
+ What do you want to be? What do you want to do? Who do you want to work for? What will you want to drive you? What kind of person do you want to be? How do you want to live? Which god will you be devoted to? How do you want to serve?</description>
+    </item>
+    
+    <item>
+      <title>not always hottest at the equator</title>
+      <link>https://westleydang.github.io/bookshelf/post/solar-radiation/</link>
+      <pubDate>Fri, 02 Jun 2017 13:43:06 -0700</pubDate>
+      
+      <guid>https://westleydang.github.io/bookshelf/post/solar-radiation/</guid>
+      <description>I was in Sweden and I’m pretty sure that the sun was more intense up there, on account that I tanned faster than when I was in San Diego. My friend begged to differ, arguing that the sun was always most intense at the equator.
+Well, I don’t know anything about that, except for that my first-grade teacher told me the very same thing.
+But what I do know are these:  The Earth is on a 23.</description>
+    </item>
+    
+    <item>
+      <title>this is post 1</title>
       <link>https://westleydang.github.io/bookshelf/post/hello/</link>
       <pubDate>Fri, 02 Jun 2017 12:13:44 -0700</pubDate>
       
       <guid>https://westleydang.github.io/bookshelf/post/hello/</guid>
-      <description>I read Good to Great in January 2016. An awesome read sharing detailed analysis on how good companies became great.</description>
+      <description>This is header 1 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
     </item>
     
   </channel>

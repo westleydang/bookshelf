@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://westleydang.github.io/bookshelf/about/</loc>
+    <lastmod>2017-06-03T15:50:52-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://westleydang.github.io/bookshelf/post/what-do-you-want-to-be/</loc>
     <lastmod>2017-06-03T15:00:13-07:00</lastmod>
   </url>
@@ -34,6 +39,12 @@
   </url>
   
   <url>
+    <loc>https://westleydang.github.io/bookshelf/categories/uncat/</loc>
+    <lastmod>2017-06-03T15:50:52-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://westleydang.github.io/bookshelf/</loc>
     <lastmod>2017-06-03T15:00:13-07:00</lastmod>
     <priority>0</priority>
@@ -42,6 +53,12 @@
   <url>
     <loc>https://westleydang.github.io/bookshelf/tags/x/</loc>
     <lastmod>2017-06-03T15:00:13-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://westleydang.github.io/bookshelf/tags/xyz/</loc>
+    <lastmod>2017-06-03T15:50:52-07:00</lastmod>
     <priority>0</priority>
   </url>
   

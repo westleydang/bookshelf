@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Y on Westley Dang</title>
-    <link>https://westleydang.github.io/bookshelf/categories/y/</link>
+    <link>https://www.westleydang.com/categories/y/</link>
     <description>Recent content in Y on Westley Dang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 03 Jun 2017 15:00:13 -0700</lastBuildDate>
     
-	<atom:link href="https://westleydang.github.io/bookshelf/categories/y/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.westleydang.com/categories/y/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>what do you want to be</title>
-      <link>https://westleydang.github.io/bookshelf/post/what-do-you-want-to-be/</link>
+      <link>https://www.westleydang.com/post/what-do-you-want-to-be/</link>
       <pubDate>Sat, 03 Jun 2017 15:00:13 -0700</pubDate>
       
-      <guid>https://westleydang.github.io/bookshelf/post/what-do-you-want-to-be/</guid>
+      <guid>https://www.westleydang.com/post/what-do-you-want-to-be/</guid>
       <description>“What do you want to be when you grow up?” and other ways of asking it.
  What do you want to be? What do you want to do? Who do you want to work for? What will you want to drive you? What kind of person do you want to be? How do you want to live? Which god will you be devoted to? How do you want to serve?</description>
     </item>

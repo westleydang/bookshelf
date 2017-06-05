@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Westley Dang</title>
-    <link>https://westleydang.github.io/bookshelf/tags/</link>
+    <link>https://www.westleydang.com/tags/</link>
     <description>Recent content in Tags on Westley Dang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://westleydang.github.io/bookshelf/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.westleydang.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>X</title>
-      <link>https://westleydang.github.io/bookshelf/tags/x/</link>
+      <link>https://www.westleydang.com/tags/x/</link>
       <pubDate>Sat, 03 Jun 2017 15:00:13 -0700</pubDate>
       
-      <guid>https://westleydang.github.io/bookshelf/tags/x/</guid>
+      <guid>https://www.westleydang.com/tags/x/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xyz</title>
-      <link>https://westleydang.github.io/bookshelf/tags/xyz/</link>
+      <link>https://www.westleydang.com/tags/xyz/</link>
       <pubDate>Sat, 03 Jun 2017 15:50:52 -0700</pubDate>
       
-      <guid>https://westleydang.github.io/bookshelf/tags/xyz/</guid>
+      <guid>https://www.westleydang.com/tags/xyz/</guid>
       <description></description>
     </item>
     

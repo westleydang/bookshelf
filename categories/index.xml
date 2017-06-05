@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Westley Dang</title>
-    <link>https://westleydang.github.io/bookshelf/categories/</link>
+    <link>https://www.westleydang.com/categories/</link>
     <description>Recent content in Categories on Westley Dang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://westleydang.github.io/bookshelf/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.westleydang.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Uncat</title>
-      <link>https://westleydang.github.io/bookshelf/categories/uncat/</link>
+      <link>https://www.westleydang.com/categories/uncat/</link>
       <pubDate>Sat, 03 Jun 2017 15:50:52 -0700</pubDate>
       
-      <guid>https://westleydang.github.io/bookshelf/categories/uncat/</guid>
+      <guid>https://www.westleydang.com/categories/uncat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Y</title>
-      <link>https://westleydang.github.io/bookshelf/categories/y/</link>
+      <link>https://www.westleydang.com/categories/y/</link>
       <pubDate>Sat, 03 Jun 2017 15:00:13 -0700</pubDate>
       
-      <guid>https://westleydang.github.io/bookshelf/categories/y/</guid>
+      <guid>https://www.westleydang.com/categories/y/</guid>
       <description></description>
     </item>
     
